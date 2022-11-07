@@ -1,0 +1,13 @@
+{
+  "name": "remember_imp_exp",
+  "version": "1.0.0",
+  "main": "firstSecond.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "keywords": [],
+  "description": ""
+}
